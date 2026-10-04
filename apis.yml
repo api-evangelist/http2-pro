@@ -41,7 +41,6 @@ apis:
   - name: HTTP2.Pro
     description: "Test endpoints for client and server HTTP/2 protocol support"
     humanURL: https://http2.pro/doc/api
-    baseURL: https://http2.pro/doc/api
     tags:
       - Development
     properties:
